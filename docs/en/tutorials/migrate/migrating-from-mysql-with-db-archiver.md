@@ -121,7 +121,7 @@ CREATE TABLE my_table (
 Install db-archiver using the `go install` command:
 
 ```bash
-go install github.com/databend/db-archiver@latest
+ go install github.com/databendcloud/db-archiver/cmd@latest
 ```
 
 ## Step 5: Configure & Run db-archiver
